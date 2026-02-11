@@ -1,0 +1,1 @@
+{"name":"Les Belles Olives De Ners","domain":"https://belleolive.fr","path":"/htdocs","wpVersion":"6.9.1","services":{"php":{"name":"php","version":"8.4.17"},"mariadb":{"name":"mariadb","version":"10.11.15-MariaDB-deb12"},"apache":{"name":"apache","version":"2.4.66"}},"wpMigrate":{"version":"2.7.7"}}
